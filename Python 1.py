@@ -6,3 +6,6 @@ product = 1
 for mult in multiplicands:
     product = product * mult
 print(product)
+
+
+print("BRUH")
